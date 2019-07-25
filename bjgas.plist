@@ -36,7 +36,7 @@
    <key>metadata</key>
    <dict>
     <key>update-url</key>
-    <string>http://wsbz.bjgas.com/uploadfile/sysfiles/mobile/ios/index.html</string>
+    <string>https://raw.githubusercontent.com/aerotop-zhny/wsbz/master/bjgas.plist</string>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
     <string>com.aerotop.bjgas</string>
