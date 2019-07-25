@@ -35,14 +35,12 @@
    </array>
    <key>metadata</key>
    <dict>
-    <key>update-url</key>
-    <string>https://raw.githubusercontent.com/aerotop-zhny/wsbz/master/bjgas.plist</string>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
     <string>com.aerotop.bjgas</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.4</string>
+    <string>1.0.1</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
