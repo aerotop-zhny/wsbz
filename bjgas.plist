@@ -36,7 +36,7 @@
    <key>metadata</key>
    <dict>
     <key>update-url</key>
-   	<string>https://raw.githubusercontent.com/aerotop-zhny/wsbz/master/bjgas.plist</string>
+   	<string>itms-services://?action=download-manifest&url=https://git.oschina.net/chshyin/lottery_ios_h5/raw/master/lottery.plist</string>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
     <string>com.aerotop.bjgas</string>
